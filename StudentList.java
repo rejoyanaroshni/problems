@@ -4,6 +4,7 @@ import java.util.*;
 public class StudentList {
 	public static void main(String[] args) {
 		//step1
+		//step2
 
 //		Check arguments
 		if(args[0].equals("a")) {
