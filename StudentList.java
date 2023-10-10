@@ -6,6 +6,7 @@ public class StudentList {
 		//step1
 		//step2
 		//step3
+		//step4
 
 //		Check arguments
 		if(args[0].equals("a")) {
