@@ -5,6 +5,7 @@ public class StudentList {
 	public static void main(String[] args) {
 		//step1
 		//step2
+		//step3
 
 //		Check arguments
 		if(args[0].equals("a")) {
